@@ -15,28 +15,28 @@ title = "Computation and Language"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
+category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
+category = "cs.SY"
 title = "Systems and Control"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
+category = "cs.MA"
 title = "Multiagent Systems"
 
-# [[sources]]
-# limit = 150
-# category = "cs.IR"
-# title = "Information Retrieval"
+[[sources]]
+limit = 150
+category = "cs.AI"
+title = "Artificial Intelligence"
 
-# [[sources]]
-# limit = 150
-# category = "cs.LG"
-# title = "Machine Learning"
+[[sources]]
+limit = 150
+category = "cs.IR"
+title = "Information Retrieval"
 
 [[sources]]
 limit = 150
